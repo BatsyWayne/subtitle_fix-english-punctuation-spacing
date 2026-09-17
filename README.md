@@ -119,4 +119,4 @@ project_subtitle-comma/
 
 ## 许可证
 
-仓库目前未包含 LICENSE 文件，发布到 GitHub 前请根据需要自行选择并添加合适的开源协议（如 MIT、Apache-2.0）。
+本项目采用 [MIT 许可证](LICENSE) 开源，可自由使用、修改和分发，但不提供任何担保。
